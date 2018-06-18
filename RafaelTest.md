@@ -1,6 +1,6 @@
 ## Yining Jiang
 ### 06/18/18
-*1
+* 1
 hello
-*2
-welcome
+* 2
+
