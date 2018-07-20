@@ -15,3 +15,4 @@ week 3 assignment:
 Final assignment
 * run_analysis.md
 * run_analysis.R
+* run_analysis(Codebook).md
